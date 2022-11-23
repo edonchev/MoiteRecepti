@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LrG5ipf3NIPappFy5vvoyCA28k2tRNthVRIq2z6VKSyvCn1kCdWFE0nmWyKC8nhKe+qYuuYXakLXsal2tTmfFw==",
+  "success": true,
+  "projectFilePath": "E:\\Visual_Studio_2022\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EnchoDonchev\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\EnchoDonchev\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}
