@@ -1,0 +1,12 @@
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\bin\Debug\net6.0\MoiteRecepti.Services.Mapping.deps.json
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\bin\Debug\net6.0\MoiteRecepti.Services.Mapping.dll
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\bin\Debug\net6.0\MoiteRecepti.Services.Mapping.pdb
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net6.0\MoiteRecepti.Services.Mapping.csproj.AssemblyReference.cache
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net6.0\MoiteRecepti.Services.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net6.0\MoiteRecepti.Services.Mapping.AssemblyInfoInputs.cache
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net6.0\MoiteRecepti.Services.Mapping.AssemblyInfo.cs
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net6.0\MoiteRecepti.Services.Mapping.csproj.CoreCompileInputs.cache
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net6.0\MoiteRecepti.Services.Mapping.dll
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net6.0\refint\MoiteRecepti.Services.Mapping.dll
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net6.0\MoiteRecepti.Services.Mapping.pdb
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Mapping\obj\Debug\net6.0\ref\MoiteRecepti.Services.Mapping.dll

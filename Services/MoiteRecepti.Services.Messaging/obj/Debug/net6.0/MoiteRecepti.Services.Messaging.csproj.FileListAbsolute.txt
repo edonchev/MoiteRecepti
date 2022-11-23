@@ -1,0 +1,12 @@
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\bin\Debug\net6.0\MoiteRecepti.Services.Messaging.deps.json
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\bin\Debug\net6.0\MoiteRecepti.Services.Messaging.dll
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\bin\Debug\net6.0\MoiteRecepti.Services.Messaging.pdb
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net6.0\MoiteRecepti.Services.Messaging.csproj.AssemblyReference.cache
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net6.0\MoiteRecepti.Services.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net6.0\MoiteRecepti.Services.Messaging.AssemblyInfoInputs.cache
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net6.0\MoiteRecepti.Services.Messaging.AssemblyInfo.cs
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net6.0\MoiteRecepti.Services.Messaging.csproj.CoreCompileInputs.cache
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net6.0\MoiteRecepti.Services.Messaging.dll
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net6.0\refint\MoiteRecepti.Services.Messaging.dll
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net6.0\MoiteRecepti.Services.Messaging.pdb
+E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Messaging\obj\Debug\net6.0\ref\MoiteRecepti.Services.Messaging.dll

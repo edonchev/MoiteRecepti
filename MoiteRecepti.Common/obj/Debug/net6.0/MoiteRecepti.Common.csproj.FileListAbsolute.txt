@@ -1,0 +1,12 @@
+E:\Visual_Studio_2022\MoiteRecepti\MoiteRecepti.Common\bin\Debug\net6.0\MoiteRecepti.Common.deps.json
+E:\Visual_Studio_2022\MoiteRecepti\MoiteRecepti.Common\bin\Debug\net6.0\MoiteRecepti.Common.dll
+E:\Visual_Studio_2022\MoiteRecepti\MoiteRecepti.Common\bin\Debug\net6.0\MoiteRecepti.Common.pdb
+E:\Visual_Studio_2022\MoiteRecepti\MoiteRecepti.Common\obj\Debug\net6.0\MoiteRecepti.Common.csproj.AssemblyReference.cache
+E:\Visual_Studio_2022\MoiteRecepti\MoiteRecepti.Common\obj\Debug\net6.0\MoiteRecepti.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual_Studio_2022\MoiteRecepti\MoiteRecepti.Common\obj\Debug\net6.0\MoiteRecepti.Common.AssemblyInfoInputs.cache
+E:\Visual_Studio_2022\MoiteRecepti\MoiteRecepti.Common\obj\Debug\net6.0\MoiteRecepti.Common.AssemblyInfo.cs
+E:\Visual_Studio_2022\MoiteRecepti\MoiteRecepti.Common\obj\Debug\net6.0\MoiteRecepti.Common.csproj.CoreCompileInputs.cache
+E:\Visual_Studio_2022\MoiteRecepti\MoiteRecepti.Common\obj\Debug\net6.0\MoiteRecepti.Common.dll
+E:\Visual_Studio_2022\MoiteRecepti\MoiteRecepti.Common\obj\Debug\net6.0\refint\MoiteRecepti.Common.dll
+E:\Visual_Studio_2022\MoiteRecepti\MoiteRecepti.Common\obj\Debug\net6.0\MoiteRecepti.Common.pdb
+E:\Visual_Studio_2022\MoiteRecepti\MoiteRecepti.Common\obj\Debug\net6.0\ref\MoiteRecepti.Common.dll

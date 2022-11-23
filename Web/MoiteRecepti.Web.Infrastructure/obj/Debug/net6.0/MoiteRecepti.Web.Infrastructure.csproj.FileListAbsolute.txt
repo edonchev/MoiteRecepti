@@ -1,0 +1,12 @@
+E:\Visual_Studio_2022\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\net6.0\MoiteRecepti.Web.Infrastructure.deps.json
+E:\Visual_Studio_2022\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\net6.0\MoiteRecepti.Web.Infrastructure.dll
+E:\Visual_Studio_2022\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\bin\Debug\net6.0\MoiteRecepti.Web.Infrastructure.pdb
+E:\Visual_Studio_2022\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net6.0\MoiteRecepti.Web.Infrastructure.csproj.AssemblyReference.cache
+E:\Visual_Studio_2022\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net6.0\MoiteRecepti.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual_Studio_2022\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net6.0\MoiteRecepti.Web.Infrastructure.AssemblyInfoInputs.cache
+E:\Visual_Studio_2022\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net6.0\MoiteRecepti.Web.Infrastructure.AssemblyInfo.cs
+E:\Visual_Studio_2022\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net6.0\MoiteRecepti.Web.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Visual_Studio_2022\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net6.0\MoiteRecepti.Web.Infrastructure.dll
+E:\Visual_Studio_2022\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net6.0\refint\MoiteRecepti.Web.Infrastructure.dll
+E:\Visual_Studio_2022\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net6.0\MoiteRecepti.Web.Infrastructure.pdb
+E:\Visual_Studio_2022\MoiteRecepti\Web\MoiteRecepti.Web.Infrastructure\obj\Debug\net6.0\ref\MoiteRecepti.Web.Infrastructure.dll
