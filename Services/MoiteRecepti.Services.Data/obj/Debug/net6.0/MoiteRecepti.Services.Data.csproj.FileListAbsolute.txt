@@ -17,3 +17,22 @@ E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Data\obj\Debug
 E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\refint\MoiteRecepti.Services.Data.dll
 E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\MoiteRecepti.Services.Data.pdb
 E:\Visual_Studio_2022\MoiteRecepti\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\ref\MoiteRecepti.Services.Data.dll
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\bin\Debug\net6.0\MoiteRecepti.Services.Data.deps.json
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\bin\Debug\net6.0\MoiteRecepti.Services.Data.dll
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\bin\Debug\net6.0\MoiteRecepti.Services.Data.pdb
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\bin\Debug\net6.0\MoiteRecepti.Data.Common.dll
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\bin\Debug\net6.0\MoiteRecepti.Data.Models.dll
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\bin\Debug\net6.0\MoiteRecepti.Services.Mapping.dll
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\bin\Debug\net6.0\MoiteRecepti.Data.Common.pdb
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\bin\Debug\net6.0\MoiteRecepti.Data.Models.pdb
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\bin\Debug\net6.0\MoiteRecepti.Services.Mapping.pdb
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\MoiteRecepti.Services.Data.csproj.AssemblyReference.cache
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\MoiteRecepti.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\MoiteRecepti.Services.Data.AssemblyInfoInputs.cache
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\MoiteRecepti.Services.Data.AssemblyInfo.cs
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\MoiteRecepti.Services.Data.csproj.CoreCompileInputs.cache
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\MoiteRecepti.Services.Data.csproj.CopyComplete
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\MoiteRecepti.Services.Data.dll
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\refint\MoiteRecepti.Services.Data.dll
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\MoiteRecepti.Services.Data.pdb
+J:\09_Internal issues\05_File_Exchange\CI\bgdonce\C\MoiteRecepti-main\Services\MoiteRecepti.Services.Data\obj\Debug\net6.0\ref\MoiteRecepti.Services.Data.dll
