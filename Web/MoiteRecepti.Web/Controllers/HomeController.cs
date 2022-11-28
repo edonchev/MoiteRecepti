@@ -5,26 +5,38 @@
 
     using Microsoft.AspNetCore.Mvc;
     using MoiteRecepti.Data;
+    using MoiteRecepti.Data.Common.Repositories;
+    using MoiteRecepti.Data.Models;
     using MoiteRecepti.Web.ViewModels;
     using MoiteRecepti.Web.ViewModels.Home;
 
     public class HomeController : BaseController
     {
-        private readonly ApplicationDbContext db;
+        private readonly IDeletableEntityRepository<Category> categoriesRepository;
+        private readonly IRepository<Image> imagesRepository;
+        private readonly IDeletableEntityRepository<Ingredient> ingredientsRepository;
+        private readonly IDeletableEntityRepository<Recipe> recipesRepository;
 
-        public HomeController(ApplicationDbContext db)
+        public HomeController(
+            IDeletableEntityRepository<Category> categoriesRepository,
+            IRepository<Image> imagesRepository,
+            IDeletableEntityRepository<Ingredient> ingredientsRepository,
+            IDeletableEntityRepository<Recipe> recipesRepository)
         {
-            this.db = db;
+            this.categoriesRepository = categoriesRepository;
+            this.imagesRepository = imagesRepository;
+            this.ingredientsRepository = ingredientsRepository;
+            this.recipesRepository = recipesRepository;
         }
 
         public IActionResult Index()
         {
             var viewModel = new IndexViewModel()
             {
-                CategoriesCount = this.db.Categories.Count(),
-                ImagesCount = this.db.Images.Count(),
-                IngredientsCount = this.db.Ingredients.Count(),
-                RecipesCount = this.db.Recipes.Count(),
+                CategoriesCount = this.categoriesRepository.All().Count(),
+                ImagesCount = this.imagesRepository.All().Count(),
+                IngredientsCount = this.ingredientsRepository.All().Count(),
+                RecipesCount = this.recipesRepository.All().Count(),
             };
 
             return this.View(viewModel);
