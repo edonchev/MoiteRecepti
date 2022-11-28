@@ -23,5 +23,9 @@
 
         public virtual ICollection<RecipeIngredient> Ingredients =>
             new HashSet<RecipeIngredient>();
+
+        public int CategoryId { get; set; }
+
+        public virtual Category Category { get; set; }
     }
 }

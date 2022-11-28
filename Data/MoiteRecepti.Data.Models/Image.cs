@@ -1,6 +1,7 @@
 ﻿namespace MoiteRecepti.Data.Models
 {
     using System;
+
     using MoiteRecepti.Data.Common.Models;
 
     public class Image : BaseModel<string>
