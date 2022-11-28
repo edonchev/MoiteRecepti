@@ -17,12 +17,17 @@
 
         public int PortionsCount { get; set; }
 
+        // TODO: Original URL
+
         public string AddedByUserId { get; set; }
 
         public virtual ApplicationUser AddedByUser { get; set; }
 
         public virtual ICollection<RecipeIngredient> Ingredients =>
             new HashSet<RecipeIngredient>();
+
+        public virtual ICollection<Image> Images =>
+            new HashSet<Image>();
 
         public int CategoryId { get; set; }
 

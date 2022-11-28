@@ -8,7 +8,7 @@
     {
         public string Name { get; set; }
 
-
-        public ICollection<Recipe> Recipes { get; set; }
+        public ICollection<Recipe> Recipes =>
+            new HashSet<Recipe>();
     }
 }
