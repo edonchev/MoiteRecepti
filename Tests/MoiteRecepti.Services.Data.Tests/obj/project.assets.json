@@ -2877,7 +2877,8 @@
         "dependencies": {
           "MoiteRecepti.Data.Common": "1.0.0",
           "MoiteRecepti.Data.Models": "1.0.0",
-          "MoiteRecepti.Services.Mapping": "1.0.0"
+          "MoiteRecepti.Services.Mapping": "1.0.0",
+          "MoiteRecepti.Web.ViewModels": "1.0.0"
         },
         "compile": {
           "bin/placeholder/MoiteRecepti.Services.Data.dll": {}
@@ -2897,6 +2898,20 @@
         },
         "runtime": {
           "bin/placeholder/MoiteRecepti.Services.Mapping.dll": {}
+        }
+      },
+      "MoiteRecepti.Web.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MoiteRecepti.Data.Models": "1.0.0",
+          "MoiteRecepti.Services.Mapping": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoiteRecepti.Web.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoiteRecepti.Web.ViewModels.dll": {}
         }
       }
     }
@@ -8780,6 +8795,11 @@
       "type": "project",
       "path": "../../Services/MoiteRecepti.Services.Mapping/MoiteRecepti.Services.Mapping.csproj",
       "msbuildProject": "../../Services/MoiteRecepti.Services.Mapping/MoiteRecepti.Services.Mapping.csproj"
+    },
+    "MoiteRecepti.Web.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../../Web/MoiteRecepti.Web.ViewModels/MoiteRecepti.Web.ViewModels.csproj",
+      "msbuildProject": "../../Web/MoiteRecepti.Web.ViewModels/MoiteRecepti.Web.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {

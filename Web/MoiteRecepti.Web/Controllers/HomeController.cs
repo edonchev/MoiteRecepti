@@ -1,42 +1,30 @@
 ﻿namespace MoiteRecepti.Web.Controllers
 {
     using System.Diagnostics;
-    using System.Linq;
 
     using Microsoft.AspNetCore.Mvc;
-    using MoiteRecepti.Data;
-    using MoiteRecepti.Data.Common.Repositories;
-    using MoiteRecepti.Data.Models;
+    using MoiteRecepti.Services.Data;
     using MoiteRecepti.Web.ViewModels;
     using MoiteRecepti.Web.ViewModels.Home;
 
     public class HomeController : BaseController
     {
-        private readonly IDeletableEntityRepository<Category> categoriesRepository;
-        private readonly IRepository<Image> imagesRepository;
-        private readonly IDeletableEntityRepository<Ingredient> ingredientsRepository;
-        private readonly IDeletableEntityRepository<Recipe> recipesRepository;
+        private readonly IGetCountsService countsService;
 
-        public HomeController(
-            IDeletableEntityRepository<Category> categoriesRepository,
-            IRepository<Image> imagesRepository,
-            IDeletableEntityRepository<Ingredient> ingredientsRepository,
-            IDeletableEntityRepository<Recipe> recipesRepository)
+        public HomeController(IGetCountsService countsService)
         {
-            this.categoriesRepository = categoriesRepository;
-            this.imagesRepository = imagesRepository;
-            this.ingredientsRepository = ingredientsRepository;
-            this.recipesRepository = recipesRepository;
+            this.countsService = countsService;
         }
 
         public IActionResult Index()
         {
+            var countsDto = this.countsService.GetCounts();
             var viewModel = new IndexViewModel()
             {
-                CategoriesCount = this.categoriesRepository.All().Count(),
-                ImagesCount = this.imagesRepository.All().Count(),
-                IngredientsCount = this.ingredientsRepository.All().Count(),
-                RecipesCount = this.recipesRepository.All().Count(),
+                CategoriesCount = countsDto.CategoriesCount,
+                ImagesCount = countsDto.ImagesCount,
+                IngredientsCount = countsDto.IngredientsCount,
+                RecipesCount = countsDto.RecipesCount,
             };
 
             return this.View(viewModel);

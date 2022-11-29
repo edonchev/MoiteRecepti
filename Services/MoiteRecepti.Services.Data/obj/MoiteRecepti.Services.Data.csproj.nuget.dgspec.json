@@ -192,6 +192,9 @@
               },
               "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
                 "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj"
+              },
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj"
               }
             }
           }
@@ -279,6 +282,82 @@
               "target": "Package",
               "version": "[11.0.1, )"
             },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.435, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
+        "projectName": "MoiteRecepti.Web.ViewModels",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj"
+              },
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
             "StyleCop.Analyzers": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers",
               "suppressParent": "All",
