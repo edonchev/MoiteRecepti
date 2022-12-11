@@ -12,7 +12,7 @@ using MoiteRecepti.Data;
 namespace MoiteRecepti.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20221128114946_InitialCreate")]
+    [Migration("20221210184018_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -475,7 +475,7 @@ namespace MoiteRecepti.Data.Migrations
                         .HasForeignKey("AddedByUserId");
 
                     b.HasOne("MoiteRecepti.Data.Models.Recipe", "Recipe")
-                        .WithMany()
+                        .WithMany("Images")
                         .HasForeignKey("RecipeId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
@@ -542,6 +542,8 @@ namespace MoiteRecepti.Data.Migrations
 
             modelBuilder.Entity("MoiteRecepti.Data.Models.Recipe", b =>
                 {
+                    b.Navigation("Images");
+
                     b.Navigation("Ingredients");
                 });
 #pragma warning restore 612, 618

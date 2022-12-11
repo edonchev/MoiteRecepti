@@ -7,6 +7,12 @@
 
     public class Recipe : BaseDeletableModel<int>
     {
+        public Recipe()
+        {
+            this.Ingredients = new HashSet<RecipeIngredient>();
+            this.Images = new HashSet<Image>();
+        }
+
         public string Name { get; set; }
 
         public string Description { get; set; }
@@ -23,11 +29,9 @@
 
         public virtual ApplicationUser AddedByUser { get; set; }
 
-        public virtual ICollection<RecipeIngredient> Ingredients =>
-            new HashSet<RecipeIngredient>();
+        public virtual ICollection<RecipeIngredient> Ingredients { get; set; }
 
-        public virtual ICollection<Image> Images =>
-            new HashSet<Image>();
+        public virtual ICollection<Image> Images { get; set; }
 
         public int CategoryId { get; set; }
 

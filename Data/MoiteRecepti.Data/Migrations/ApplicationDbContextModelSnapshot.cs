@@ -473,7 +473,7 @@ namespace MoiteRecepti.Data.Migrations
                         .HasForeignKey("AddedByUserId");
 
                     b.HasOne("MoiteRecepti.Data.Models.Recipe", "Recipe")
-                        .WithMany()
+                        .WithMany("Images")
                         .HasForeignKey("RecipeId")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
@@ -540,6 +540,8 @@ namespace MoiteRecepti.Data.Migrations
 
             modelBuilder.Entity("MoiteRecepti.Data.Models.Recipe", b =>
                 {
+                    b.Navigation("Images");
+
                     b.Navigation("Ingredients");
                 });
 #pragma warning restore 612, 618

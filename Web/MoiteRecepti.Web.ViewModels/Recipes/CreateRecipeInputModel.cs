@@ -11,7 +11,7 @@
         public string Name { get; set; }
 
         [Required]
-        [MinLength(100)]
+        [MinLength(10)]
         public string Description { get; set; }
 
         [Range(0, 24 * 60)]

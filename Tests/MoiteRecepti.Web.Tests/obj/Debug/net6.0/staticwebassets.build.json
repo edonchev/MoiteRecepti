@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "Hash": "SrKjq8LF60GIdAPQJvA+s0mDK/k57yLlsHwTWG3Iub8=",
+  "Hash": "GM1IjcY4L54fGWY+8ShGaTErPuD6Pjt2tD/QxEu8ZY8=",
   "Source": "MoiteRecepti.Web.Tests",
   "BasePath": "_content/MoiteRecepti.Web.Tests",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
       "Version": 2,
       "Source": "MoiteRecepti.Web",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
       "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
       "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],
   "DiscoveryPatterns": [
     {
       "Name": "MoiteRecepti.Web\\wwwroot",
       "Source": "MoiteRecepti.Web",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\css\\site.css",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -46,10 +46,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\css\\site.min.css",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\css\\site.min.css",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -63,10 +63,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\favicon.ico",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\js\\site.js",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\js\\site.js",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -97,10 +97,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\js\\site.min.js",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\js\\site.min.js",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "js/site.min.js",
       "AssetKind": "All",
@@ -114,10 +114,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.min.js"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -148,10 +148,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -165,10 +165,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -182,10 +182,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -199,10 +199,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -216,10 +216,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -233,10 +233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -250,10 +250,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -267,10 +267,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "SourceId": "MoiteRecepti.Web",
       "SourceType": "Project",
-      "ContentRoot": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti-main\\Web\\MoiteRecepti.Web\\wwwroot\\",
+      "ContentRoot": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\wwwroot\\",
       "BasePath": "_content/MoiteRecepti.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",

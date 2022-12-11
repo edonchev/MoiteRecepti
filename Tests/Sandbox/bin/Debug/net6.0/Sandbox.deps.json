@@ -714,7 +714,8 @@
         "dependencies": {
           "MoiteRecepti.Data.Common": "1.0.0",
           "MoiteRecepti.Data.Models": "1.0.0",
-          "MoiteRecepti.Services.Mapping": "1.0.0"
+          "MoiteRecepti.Services.Mapping": "1.0.0",
+          "MoiteRecepti.Web.ViewModels": "1.0.0"
         },
         "runtime": {
           "MoiteRecepti.Services.Data.dll": {}
@@ -734,6 +735,15 @@
         },
         "runtime": {
           "MoiteRecepti.Services.Messaging.dll": {}
+        }
+      },
+      "MoiteRecepti.Web.ViewModels/1.0.0": {
+        "dependencies": {
+          "MoiteRecepti.Data.Models": "1.0.0",
+          "MoiteRecepti.Services.Mapping": "1.0.0"
+        },
+        "runtime": {
+          "MoiteRecepti.Web.ViewModels.dll": {}
         }
       }
     }
@@ -1263,6 +1273,11 @@
       "sha512": ""
     },
     "MoiteRecepti.Services.Messaging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoiteRecepti.Web.ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

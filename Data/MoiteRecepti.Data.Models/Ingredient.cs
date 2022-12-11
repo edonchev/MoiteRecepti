@@ -6,9 +6,13 @@
 
     public class Ingredient : BaseDeletableModel<int>
     {
+        public Ingredient()
+        {
+            this.Recipes = new HashSet<RecipeIngredient>();
+        }
+
         public string Name { get; set; }
 
-        public virtual ICollection<RecipeIngredient> Recipes =>
-            new HashSet<RecipeIngredient>();
+        public virtual ICollection<RecipeIngredient> Recipes { get; set; }
     }
 }
