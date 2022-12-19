@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj": {}
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj": {}
   },
   "projects": {
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj": {
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj",
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj",
         "projectName": "MoiteRecepti.Data.Common",
-        "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj",
-        "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\obj\\",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,21 +73,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj",
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj",
         "projectName": "MoiteRecepti.Data.Models",
-        "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj",
-        "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\obj\\",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -89,14 +100,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj"
               }
             }
           }
@@ -138,21 +150,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj": {
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj",
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj",
         "projectName": "MoiteRecepti.Data",
-        "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj",
-        "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data\\obj\\",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,20 +177,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj"
               }
             }
           }
@@ -235,21 +253,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj": {
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj",
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj",
         "projectName": "MoiteRecepti.Common",
-        "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj",
-        "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\MoiteRecepti.Common\\obj\\",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\MoiteRecepti.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -257,6 +280,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -298,21 +322,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj": {
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj",
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj",
         "projectName": "MoiteRecepti.Services.Data",
-        "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj",
-        "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\obj\\",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -320,23 +349,24 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Common\\MoiteRecepti.Data.Common.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj"
               }
             }
           }
@@ -374,21 +404,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj",
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj",
         "projectName": "MoiteRecepti.Services.Mapping",
-        "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj",
-        "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\obj\\",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -396,6 +431,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -441,21 +477,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj": {
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj",
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj",
         "projectName": "MoiteRecepti.Services.Messaging",
-        "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj",
-        "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\obj\\",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -463,6 +504,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -508,21 +550,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj": {
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj",
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj",
         "projectName": "MoiteRecepti.Services",
-        "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj",
-        "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services\\obj\\",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -530,6 +577,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -571,21 +619,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj": {
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj",
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj",
         "projectName": "MoiteRecepti.Web.Tests",
-        "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj",
-        "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\obj\\",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\MoiteRecepti.Web.Tests.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Tests\\MoiteRecepti.Web.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -593,14 +646,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj"
               }
             }
           }
@@ -659,21 +713,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj": {
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj",
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj",
         "projectName": "MoiteRecepti.Web.Infrastructure",
-        "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\obj\\",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -681,6 +740,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -722,21 +782,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj": {
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
         "projectName": "MoiteRecepti.Web.ViewModels",
-        "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
-        "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\obj\\",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -744,17 +809,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj"
               }
             }
           }
@@ -792,21 +858,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj": {
+    "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
+        "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
         "projectName": "MoiteRecepti.Web",
-        "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
-        "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web\\obj\\",
+        "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web\\MoiteRecepti.Web.csproj",
+        "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+        "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -814,38 +885,39 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data.Models\\MoiteRecepti.Data.Models.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Data\\MoiteRecepti.Data\\MoiteRecepti.Data.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Data\\MoiteRecepti.Services.Data.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Mapping\\MoiteRecepti.Services.Mapping.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services.Messaging\\MoiteRecepti.Services.Messaging.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.Infrastructure\\MoiteRecepti.Web.Infrastructure.csproj"
               },
-              "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj": {
-                "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj"
+              "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj": {
+                "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Web\\MoiteRecepti.Web.ViewModels\\MoiteRecepti.Web.ViewModels.csproj"
               }
             }
           }
@@ -910,7 +982,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

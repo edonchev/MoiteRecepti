@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LrG5ipf3NIPappFy5vvoyCA28k2tRNthVRIq2z6VKSyvCn1kCdWFE0nmWyKC8nhKe+qYuuYXakLXsal2tTmfFw==",
+  "dgSpecHash": "3ta+1hw0f8TSfW4zVUlFzBrIffJnbXv3yS2OCkmajCa1POAM0px/lwMl0sVqY/ENafsQ1J9mzZtEOX1g9ZNprg==",
   "success": true,
-  "projectFilePath": "E:\\Visual_Studio_2022\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj",
+  "projectFilePath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\MoiteRecepti.Common\\MoiteRecepti.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\EnchoDonchev\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
-    "C:\\Users\\EnchoDonchev\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+    "C:\\Users\\bgdonce\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\bgdonce\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
   ],
   "logs": []
 }

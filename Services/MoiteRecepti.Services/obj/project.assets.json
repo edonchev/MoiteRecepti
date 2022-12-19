@@ -60,19 +60,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EnchoDonchev\\.nuget\\packages\\": {}
+    "C:\\Users\\bgdonce\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj",
+      "projectUniqueName": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj",
       "projectName": "MoiteRecepti.Services",
-      "projectPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj",
-      "packagesPath": "C:\\Users\\EnchoDonchev\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual_Studio_2022\\MoiteRecepti\\Services\\MoiteRecepti.Services\\obj\\",
+      "projectPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services\\MoiteRecepti.Services.csproj",
+      "packagesPath": "C:\\Users\\bgdonce\\.nuget\\packages\\",
+      "outputPath": "J:\\09_Internal issues\\05_File_Exchange\\CI\\bgdonce\\C\\MoiteRecepti\\Services\\MoiteRecepti.Services\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\EnchoDonchev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bgdonce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -80,6 +87,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -121,7 +129,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
